@@ -1,0 +1,13 @@
+{
+  "my": {
+    "name": "최성진",
+    "address": "부산광역시 남구 진남로 36번길 50 (극동아파트, 대연동) (102-217)",
+    "myImg": "/img/증명사진.jpg",
+    "phone": "010-4679-8292",
+    "date": "2001.08.25",
+    "url": "https://github.com/Jin2u1194",
+    "certificate": ["정보처리기사 자격증 준비중",""],
+    "endEducational": "신라대학교 4학년 재학중",
+    "language": "자바"
+  }
+}
